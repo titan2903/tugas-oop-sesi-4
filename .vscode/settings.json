@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.rmd": "markdown",
-        "*.yaml": "yaml",
-        "iostream": "cpp"
-    }
-}
